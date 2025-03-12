@@ -1,0 +1,4 @@
+github.com/dlclark/regexp2 v1.11.5 h1:Q/sSnsKerHeCkc/jSTNq1oCm7KiVgUMZRDUoRu0JQZQ=
+github.com/dlclark/regexp2 v1.11.5/go.mod h1:DHkYz0B9wPfa6wondMfaivmHpzrQ3v9q8cnmRbL6yW8=
+github.com/qiniu/x v1.13.12 h1:UyAwja6dgKUOYWZMzzc02wLodwnZ7wmK/0XzRd0e78g=
+github.com/qiniu/x v1.13.12/go.mod h1:INZ2TSWSJVWO/RuELQROERcslBwVgFG7MkTfEdaQz9E=
